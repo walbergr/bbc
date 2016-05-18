@@ -1,0 +1,258 @@
+/* v2.0 | 20110126
+  http://meyerweb.com/eric/tools/css/reset/ 
+  License: none (public domain)
+*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/*Content*/
+
+.top-bar {
+	width: 100%;
+	height: 39.5px;
+	background-color: #fff;
+}
+
+#bbc {
+	padding-top: 7.75px;
+	padding-bottom: 7.75px;
+	width: 92px;
+	float: left;
+	margin-left: 152px;
+}
+
+.topbar-section {
+	float: left;
+	border-left: #CCCCCC 1px solid;
+	height: 100%;
+}
+
+#sign-in {
+	width: 166.047px;
+}
+
+#user-icon {
+	width: 20px;
+	height: 20px;
+	margin-top: 9.75px;
+	margin-bottom: 9.75px;
+	margin-left: 15px;
+	float: left;
+}
+
+#sign-in-text {
+	font-size: 13px;
+	font-family: Arial;
+	font-weight: bold;
+	float: left;
+	margin-top: 13.25px;
+	margin-bottom: 13.25px;
+	margin-left: 7px;
+}
+
+#news-tab {
+	width: 57.9688px;
+}
+
+#news-text {
+	font-size: 13px;
+	font-family: Arial;
+	font-weight: bold;
+	margin-top: 13.25px;
+	margin-bottom: 13.25px;
+	text-align: center;
+}
+
+#sports-tab {
+	width: 57.9531px;
+}
+
+#sports-text {
+	font-size: 13px;
+	font-family: Arial;
+	font-weight: bold;
+	margin-top: 13.25px;
+	margin-bottom: 13.25px;
+	text-align: center;
+}
+
+#weather-tab {
+	width: 75.0625px;
+}
+
+#weather-text {
+	font-size: 13px;
+	font-family: Arial;
+	font-weight: bold;
+	margin-top: 13.25px;
+	margin-bottom: 13.25px;
+	text-align: center;
+}
+
+#shop-tab {
+	width: 57.9688px;
+}
+
+#shop-text {
+	font-size: 13px;
+	font-family: Arial;
+	font-weight: bold;
+	margin-top: 13.25px;
+	margin-bottom: 13.25px;
+	text-align: center;
+}
+
+#earth-tab {
+	width: 57.9688px;
+}
+
+#earth-text {
+	font-size: 13px;
+	font-family: Arial;
+	font-weight: bold;
+	margin-top: 13.25px;
+	margin-bottom: 13.25px;
+	text-align: center;
+}
+
+#travel-tab {
+	width: 61px;
+}
+
+#travel-text {
+	font-size: 13px;
+	font-family: Arial;
+	font-weight: bold;
+	margin-top: 13.25px;
+	margin-bottom: 13.25px;
+	text-align: center;
+}
+
+#more-tab {
+	width: 135px;
+}
+
+#more-text {
+	font-size: 13px;
+	font-family: Arial;
+	font-weight: bold;
+	margin-top: 13.25px;
+	margin-bottom: 13.25px;
+	text-align: left;
+	margin-left: 10px;
+	float: left;
+}
+
+#caret-down {
+	float: right;
+	margin-top: 11.75px;
+	margin-bottom: 11.75px;
+	margin-right: 10px;
+}
+
+#search-icon {
+	margin-top: 11.75px;
+	margin-bottom: 11.75px;
+	margin-left: -25px;
+}
+
+input {
+	background-color: #E4E4E4;
+	border: none;
+	width: 200px;
+	height: 24px;
+	margin-top: 7.75px;
+	margin-bottom: 7.75px;
+	margin-left: 10px;
+}
+
+::-webkit-input-placeholder {
+	color: black;
+	font-weight: bold;
+}
+
+.news-bar {
+	width: 100%;
+	height: 56px;
+	background-color: #BB1919;
+}
+
+.news-nav {
+	width: 100%;
+	height: 36px;
+	background-color: #A91717;
+	position: relative;
+}
+
+.main-article {
+	width: 645px;
+	height: 271px;
+	background-color: grey;
+	position: relative;
+}
+
+.news {
+	padding-top: 13px;
+	margin-left: 152px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
