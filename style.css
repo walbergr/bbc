@@ -377,6 +377,59 @@ input {
 	border-left: #bb4545 1px solid;
 }
 
+#entertainmentart-tab {
+	width: 154.172px;
+	float: left;
+}
+
+#entertainmentart-text {
+	font-size: 14px;
+	line-height: 17px;
+	font-family: Helvetica, Arial, sans-serif;
+	margin-top: 11px;
+	text-align: center;
+	color: #fff;
+	border-left: #bb4545 1px solid;
+}
+
+#health-tab {
+	width: 65.4688px;
+	float: left;
+}
+
+#health-text {
+	font-size: 14px;
+	line-height: 17px;
+	font-family: Helvetica, Arial, sans-serif;
+	margin-top: 11px;
+	text-align: center;
+	color: #fff;
+	border-left: #bb4545 1px solid;
+}
+
+#morenav-tab {
+	width: 71.9063px;
+	float: left;
+}
+
+#morenav-text {
+	font-size: 14px;
+	line-height: 17px;
+	font-family: Helvetica, Arial, sans-serif;
+	margin-top: 11px;
+	text-align: center;
+	padding-left: 13px;
+	color: #fff;
+	border-left: #bb4545 1px solid;
+	float: left;
+}
+
+#navcaret-down {
+	float: right;
+	margin-top: 11px;
+	margin-right: 10px;
+	color: #fff;
+
 .main-article {
 	width: 645px;
 	height: 271px;
