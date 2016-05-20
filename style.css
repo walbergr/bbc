@@ -228,26 +228,157 @@ input {
 	height: 36px;
 	background-color: #A91717;
 	position: relative;
+	float: left;
 }
 
 #home-tab {
 	width: 59px;
+	height: 100%;
+	margin-left: 152px;
+	float: left;
 }
 
 #home-text {
 	font-size: 14px;
+	line-height: 17px;
 	font-family: Helvetica, Arial, sans-serif;
-	/*margin-top: 9.5px;
-	margin-bottom: 9.5px;*/
 	text-align: center;
 	color: #fff;
+	float: left;
+	margin-top: 11px;
+
+}
+
+.newsnav-section {
+	float: left;
+	height: 100%;
+}
+
+#video-tab {
+	width: 60.5625px;
+	float: left;
+}
+
+#video-text {
+	font-size: 14px;
+	line-height: 17px;
+	font-family: Helvetica, Arial, sans-serif;
+	margin-top: 11px;
+	text-align: center;
+	color: #fff;
+	border-left: #bb4545 1px solid;
+}
+
+#world-tab {
+	width: 61.3125px;
+	float: left;
+}
+
+#world-text {
+	font-size: 14px;
+	line-height: 17px;
+	font-family: Helvetica, Arial, sans-serif;
+	margin-top: 11px;
+	text-align: center;
+	color: #fff;
+	border-left: #bb4545 1px solid;
+}
+
+#uscanada-tab {
+	width: 110.609px;
+	float: left;
+}
+
+#uscanada-text {
+	font-size: 14px;
+	line-height: 17px;
+	font-family: Helvetica, Arial, sans-serif;
+	margin-top: 11px;
+	text-align: center;
+	color: #fff;
+	border-left: #bb4545 1px solid;
+}
+
+#uk-tab {
+	width: 44.4531px;
+	float: left;
+}
+
+#uk-text {
+	font-size: 14px;
+	line-height: 17px;
+	font-family: Helvetica, Arial, sans-serif;
+	margin-top: 11px;
+	text-align: center;
+	color: #fff;
+	border-left: #bb4545 1px solid;
+}
+
+#business-tab {
+	width: 81.8125px;
+	float: left;
+}
+
+#business-text {
+	font-size: 14px;
+	line-height: 17px;
+	font-family: Helvetica, Arial, sans-serif;
+	margin-top: 11px;
+	text-align: center;
+	color: #fff;
+	border-left: #bb4545 1px solid;
+}
+
+#tech-tab {
+	width: 54.5781px;
+	float: left;
+}
+
+#tech-text {
+	font-size: 14px;
+	line-height: 17px;
+	font-family: Helvetica, Arial, sans-serif;
+	margin-top: 11px;
+	text-align: center;
+	color: #fff;
+	border-left: #bb4545 1px solid;
+}
+
+#science-tab {
+	width: 74.8125px;
+	float: left;
+}
+
+#science-text {
+	font-size: 14px;
+	line-height: 17px;
+	font-family: Helvetica, Arial, sans-serif;
+	margin-top: 11px;
+	text-align: center;
+	color: #fff;
+	border-left: #bb4545 1px solid;
+}
+
+#magazine-tab {
+	width: 85.7031px;
+	float: left;
+}
+
+#magazine-text {
+	font-size: 14px;
+	line-height: 17px;
+	font-family: Helvetica, Arial, sans-serif;
+	margin-top: 11px;
+	text-align: center;
+	color: #fff;
+	border-left: #bb4545 1px solid;
 }
 
 .main-article {
 	width: 645px;
 	height: 271px;
 	background-color: grey;
-	position: relative;
+	float: left;
 }
 
 
